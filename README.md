@@ -1,7 +1,5 @@
 # lds_ui
-
-# lds_ui
-POPUP UI to Fire Events instead of using while loop controlpressed - FIVEM (0.00 ms idle or active)
+LDS UI to Fire Events instead of using while loop controlpressed - FIVEM (0.00 ms idle or active)
 
 # Methods
 # DrawTEXTUI
